@@ -3,7 +3,7 @@
 **Autores: <br />**
 González Díaz, Guillermo <br />
 Sebastiani, Carlos  <br />
-Link para descargar lso datos de preprosesado: https://drive.google.com/file/d/1kdR8C1fvtg0cqHiEEK68-8QoVJu6S-YU/view?usp=sharing
+Link para descargar los datos de preprosesado: https://drive.google.com/file/d/1kdR8C1fvtg0cqHiEEK68-8QoVJu6S-YU/view?usp=sharing
 
 
 ## Objetivos del trabajo:
